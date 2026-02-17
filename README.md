@@ -1,8 +1,3 @@
-# FACEBOOK-PC-CLONE
-PAID FACEBOOK PC CLONE
-WhatsApp : +8801959864816
-telegram : @Ariyan_Ahamed00
-
 (all command ⬇️)
 
 termux-setup-storage
